@@ -17,3 +17,11 @@ Build and configure this repo folder using CMake into your OS executable, then e
 <li> Drag and Drop </li>
 <li> Pieces color unchangable </li>
 <list/>
+
+<br>
+<img src="./graphics/bishopB.png" width=50px>
+<img src="./graphics/kingB.png" width=50px>
+<img src="./graphics/queenB.png" width=50px>
+<img src="./graphics/pawnB.png" width=50px>
+<img src="./graphics/knightB.png" width=50px>
+<img src="./graphics/rookB.png" width=50px>
